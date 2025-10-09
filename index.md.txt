@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+
+# Образование
+- Студент бакалавриата СПбГУ по направлению «ТП»
+
+# Контакты
+- email: nikvandyshev@gmail.com
+- telegram: @Nigeniuss
